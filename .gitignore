@@ -198,7 +198,8 @@ FakesAssemblies/
 
 #VS
 Debug.win32/
+Release.win32/
 
 ###################################
-# libRemoteSave
+# RemoteSave
 cocos2d/
